@@ -130,6 +130,7 @@
     <ClCompile Include="01 C++书写HelloWorld.cpp" />
     <ClCompile Include="02 循环结构案例-猜数字.cpp" />
     <ClCompile Include="03 水仙花数.cpp" />
+    <ClCompile Include="04 敲桌子.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

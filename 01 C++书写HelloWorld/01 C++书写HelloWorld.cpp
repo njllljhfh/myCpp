@@ -4,7 +4,7 @@ using namespace std;
 
 #define Day 7
 
-int main() {
+int main1() {
 	int a = 10;
 	cout << "a = " << a << endl;
 	cout << "一周总共有" << Day << "天" << endl;
@@ -189,6 +189,7 @@ int main() {
 	//
 	cout << "----------------------------------------------------------------" << endl;
 
+	cout << "123" << endl;
 	system("pause");
 	return 0;
 }

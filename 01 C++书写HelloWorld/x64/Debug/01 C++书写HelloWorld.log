@@ -1,0 +1,7 @@
+﻿  01 C++书写HelloWorld.cpp
+D:\code\github\myCpp\01 C++书写HelloWorld\01 C++书写HelloWorld.cpp(48,11): warning C4305: “初始化”: 从“double”到“float”截断
+  02 循环结构案例-猜数字.cpp
+  03 水仙花数.cpp
+  04 敲桌子.cpp
+  正在生成代码...
+  01 C++书写HelloWorld.vcxproj -> D:\code\github\myCpp\x64\Debug\01 C++书写HelloWorld.exe
