@@ -2,7 +2,7 @@
 using namespace std;
 
 int main5() {
-	cout << "005数组定义" << endl;
+	cout << "005_数组定义" << endl;
 
 	//定义方式1：数据类型 数组名[数组长度];
 	cout << "定义方式1：数据类型 数组名[数组长度]" << endl;

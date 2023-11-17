@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
 
-//水仙花数
+//水仙花数：一个3位数，它的每个位上的数字的3次幂等于它本身
 int main3() {
+	cout << "003_水仙花数" << endl;
+
 	int num = 100;
 
 	do {
