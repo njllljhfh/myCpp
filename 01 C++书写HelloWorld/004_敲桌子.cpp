@@ -2,7 +2,7 @@
 using namespace std;
 
 // 各位有7，或十位有7，或被7整除
-int main() {
+int main4() {
 	for (int i = 1; i < 101; i++)
 	{
 		if (i % 7 == 0 || i % 10 == 7 || i / 10 == 7) {

@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01 C++书写HelloWorld.cpp" />
-    <ClCompile Include="02 循环结构案例-猜数字.cpp" />
-    <ClCompile Include="03 水仙花数.cpp" />
-    <ClCompile Include="04 敲桌子.cpp" />
+    <ClCompile Include="001_基础数据类型-switch-循环.cpp" />
+    <ClCompile Include="002_循环结构案例-猜数字.cpp" />
+    <ClCompile Include="003_水仙花数.cpp" />
+    <ClCompile Include="004_敲桌子.cpp" />
+    <ClCompile Include="005_数组定义.cpp" />
+    <ClCompile Include="006_数组-五只小猪称体重.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

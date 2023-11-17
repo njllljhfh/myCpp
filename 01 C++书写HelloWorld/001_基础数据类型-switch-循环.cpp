@@ -4,7 +4,7 @@ using namespace std;
 
 #define Day 7
 
-int main1() {
+int main() {
 	int a = 10;
 	cout << "a = " << a << endl;
 	cout << "一周总共有" << Day << "天" << endl;
@@ -186,7 +186,16 @@ int main1() {
 	}
 	cout << "----------------------------------------------------------------" << endl;
 
-	//
+	//goto语句
+	cout << "goto语句：" << endl;
+	cout << "1.xxx" << endl;
+	cout << "2.xxx" << endl;
+	goto FLAG;
+	cout << "3.xxx" << endl;
+	cout << "4.xxx" << endl;
+	FLAG:
+	cout << "5.xxx" << endl;
+
 	cout << "----------------------------------------------------------------" << endl;
 
 	cout << "123" << endl;
