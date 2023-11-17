@@ -42,5 +42,8 @@
     <ClCompile Include="009_数组-二维数组定义方式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="010_数组-考试成绩统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
