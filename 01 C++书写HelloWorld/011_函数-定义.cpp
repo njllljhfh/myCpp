@@ -2,25 +2,27 @@
 using namespace std;
 #include <string>
 
+void xxx()
+{
+    cout << "xxx" << endl;
+}
+
+
+int add(int num1, int num2)
+{
+    xxx();
+    int sum = num1 + num2;
+    return sum;
+}
+
+
 int main11() {
-    cout << "010_数组-考试成绩统计" << endl;
-    int scores[3][3] = {
-        {100,100,100},
-        {90, 50, 100},
-        { 60,70,80},
-    };
+    cout << "011_函数-定义" << endl;
 
-    string names[3] = { "张三", "李四", "王五" };
-
-    for (int i = 0; i < 3; i++)
-    {
-        int sum = 0;
-        for (int j = 0; j < 3; j++)
-        {
-            sum += scores[i][j];
-        }
-        cout << names[i] << "的总分为：" << sum << endl;
-    }
+    int a = 1, b = 2;
+    int c = add(1, 2);
+    cout << c << endl;
+    cout << "----------------------------------------------------------------" << endl;
 
     system("pause");
     return 0;

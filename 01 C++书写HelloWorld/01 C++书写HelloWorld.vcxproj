@@ -138,6 +138,13 @@
     <ClCompile Include="009_数组-二维数组定义方式.cpp" />
     <ClCompile Include="010_数组-考试成绩统计.cpp" />
     <ClCompile Include="011_函数-定义.cpp" />
+    <ClCompile Include="012_函数-值传递.cpp" />
+    <ClCompile Include="013_函数-函数声明.cpp" />
+    <ClCompile Include="014_函数-函数的分文件编写.cpp" />
+    <ClCompile Include="swap14.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap14.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
