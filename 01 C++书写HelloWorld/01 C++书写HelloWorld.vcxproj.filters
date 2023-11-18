@@ -60,6 +60,27 @@
     <ClCompile Include="swap14.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="015_指针-定义和使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="016_指针-空指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="017_指针-野指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="018_指针-const修饰指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="019_指针-指针和数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="020_指针-指针和函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="021_指针-指针配合数组和函数案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap14.h">
