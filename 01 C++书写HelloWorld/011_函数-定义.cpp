@@ -2,11 +2,7 @@
 using namespace std;
 #include <string>
 
-//数语外
-//张三：100,100,100
-//李四：90,50,100
-//王五：60,70,80
-int main10() {
+int main11() {
     cout << "010_数组-考试成绩统计" << endl;
     int scores[3][3] = {
         {100,100,100},

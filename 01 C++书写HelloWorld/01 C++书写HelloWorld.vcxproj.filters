@@ -45,5 +45,8 @@
     <ClCompile Include="010_数组-考试成绩统计.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="011_函数-定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

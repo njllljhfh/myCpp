@@ -137,6 +137,7 @@
     <ClCompile Include="008_数组-冒泡排序.cpp" />
     <ClCompile Include="009_数组-二维数组定义方式.cpp" />
     <ClCompile Include="010_数组-考试成绩统计.cpp" />
+    <ClCompile Include="011_函数-定义.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
