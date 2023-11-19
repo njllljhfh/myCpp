@@ -49,7 +49,7 @@ void printArray(int* arr, int len)
     cout << endl;
 }
 
-int main() {
+int main21() {
     cout << "021_指针-指针配合数组和函数案例" << endl;
     cout << "----------------------------------------------------------------" << endl;
 

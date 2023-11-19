@@ -148,6 +148,9 @@
     <ClCompile Include="019_指针-指针和数组.cpp" />
     <ClCompile Include="020_指针-指针和函数.cpp" />
     <ClCompile Include="021_指针-指针配合数组和函数案例.cpp" />
+    <ClCompile Include="022_结构体-定义和使用.cpp" />
+    <ClCompile Include="023_结构体-结构体数组.cpp" />
+    <ClCompile Include="024_结构体-结构体指针.cpp" />
     <ClCompile Include="swap14.cpp" />
   </ItemGroup>
   <ItemGroup>
