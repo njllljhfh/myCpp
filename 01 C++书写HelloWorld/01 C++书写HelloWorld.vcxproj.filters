@@ -27,9 +27,6 @@
     <ClCompile Include="004_敲桌子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="005_数组定义.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="006_数组-五只小猪称体重.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -88,6 +85,24 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="024_结构体-结构体指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="005_数组-数组定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="025_结构体-结构体嵌套结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="026_结构体-结构体做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="027_结构体-结构体中const使用场景.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="028_结构体-结构体案例1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="029_结构体-结构体案例2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

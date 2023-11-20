@@ -131,7 +131,7 @@
     <ClCompile Include="002_循环结构案例-猜数字.cpp" />
     <ClCompile Include="003_水仙花数.cpp" />
     <ClCompile Include="004_敲桌子.cpp" />
-    <ClCompile Include="005_数组定义.cpp" />
+    <ClCompile Include="005_数组-数组定义.cpp" />
     <ClCompile Include="006_数组-五只小猪称体重.cpp" />
     <ClCompile Include="007_数组-元素逆置.cpp" />
     <ClCompile Include="008_数组-冒泡排序.cpp" />
@@ -151,6 +151,11 @@
     <ClCompile Include="022_结构体-定义和使用.cpp" />
     <ClCompile Include="023_结构体-结构体数组.cpp" />
     <ClCompile Include="024_结构体-结构体指针.cpp" />
+    <ClCompile Include="025_结构体-结构体嵌套结构体.cpp" />
+    <ClCompile Include="026_结构体-结构体做函数参数.cpp" />
+    <ClCompile Include="027_结构体-结构体中const使用场景.cpp" />
+    <ClCompile Include="028_结构体-结构体案例1.cpp" />
+    <ClCompile Include="029_结构体-结构体案例2.cpp" />
     <ClCompile Include="swap14.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -11,10 +11,9 @@ struct Student
 	int score;
 };
 
-int main() {
+int main24() {
 	cout << "024_结构体-结构体指针" << endl;
 	Student s = { "张三",18,100 };
-
 
 	//通过指针指向结构体变量
 	Student* p = &s;
