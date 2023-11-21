@@ -80,7 +80,7 @@ void bubbleSort29(Hero* arr, int len, bool reverse = false)
     }
 }
 
-int main() {
+int main29() {
     cout << "029_结构体-结构体案例2" << endl;
 
     //用系统时间，产生随机数种子，需要头文件 <ctime>

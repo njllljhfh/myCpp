@@ -156,6 +156,11 @@
     <ClCompile Include="027_结构体-结构体中const使用场景.cpp" />
     <ClCompile Include="028_结构体-结构体案例1.cpp" />
     <ClCompile Include="029_结构体-结构体案例2.cpp" />
+    <ClCompile Include="030_程序的内存模型-基础知识.cpp" />
+    <ClCompile Include="031_程序的内存模型-全局区.cpp" />
+    <ClCompile Include="032_程序的内存模型-栈区.cpp" />
+    <ClCompile Include="033_程序的内存模型-堆区.cpp" />
+    <ClCompile Include="034_程序的内存模型-new操作符.cpp" />
     <ClCompile Include="swap14.cpp" />
   </ItemGroup>
   <ItemGroup>

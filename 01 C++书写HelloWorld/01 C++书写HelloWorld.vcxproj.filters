@@ -105,6 +105,21 @@
     <ClCompile Include="029_结构体-结构体案例2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="030_程序的内存模型-基础知识.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="031_程序的内存模型-全局区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="032_程序的内存模型-栈区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="033_程序的内存模型-堆区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="034_程序的内存模型-new操作符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap14.h">
