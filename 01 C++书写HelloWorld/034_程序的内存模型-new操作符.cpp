@@ -41,7 +41,7 @@ void test342()
     delete[] arr;
 }
 
-int main() {
+int main34() {
     cout << "034_程序的内存模型-new操作符" << endl;
 
     //1、new 的基本语法

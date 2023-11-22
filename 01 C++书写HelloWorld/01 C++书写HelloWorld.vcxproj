@@ -161,6 +161,12 @@
     <ClCompile Include="032_程序的内存模型-栈区.cpp" />
     <ClCompile Include="033_程序的内存模型-堆区.cpp" />
     <ClCompile Include="034_程序的内存模型-new操作符.cpp" />
+    <ClCompile Include="035_引用-引用的基本用法.cpp" />
+    <ClCompile Include="036_引用-引用的注意事项.cpp" />
+    <ClCompile Include="037_引用-引用做函数参数.cpp" />
+    <ClCompile Include="038_引用-引用做函数的返回值.cpp" />
+    <ClCompile Include="039_引用-引用的本质.cpp" />
+    <ClCompile Include="040_引用-常量引用.cpp" />
     <ClCompile Include="swap14.cpp" />
   </ItemGroup>
   <ItemGroup>
