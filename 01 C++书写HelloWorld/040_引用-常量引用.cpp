@@ -11,7 +11,7 @@ void showValue40(const int& val)
 }
 
 
-int main() {
+int main40() {
     cout << "040_引用-常量引用" << endl;
 
 
