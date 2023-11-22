@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// 各位有7，或十位有7，或被7整除
+// 个位有7，或十位有7，或被7整除
 int main4() {
     cout << "004_敲桌子" << endl;
 
