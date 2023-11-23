@@ -27,7 +27,7 @@ void func44_2(int a)
     cout << "func44_2(int a) 调用" << endl;
 }
 
-int main() {
+int main44() {
     cout << "044_函数高级-函数重载注意事项" << endl;
 
     cout << "引用作为重载的条件" << endl;

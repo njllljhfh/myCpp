@@ -171,6 +171,8 @@
     <ClCompile Include="042_函数高级-函数站位参数.cpp" />
     <ClCompile Include="043_函数高级-函数重载.cpp" />
     <ClCompile Include="044_函数高级-函数重载注意事项.cpp" />
+    <ClCompile Include="045_类和对象-封装-属性和行为作为整体.cpp" />
+    <ClCompile Include="046_类和对象-封装-案例-设计学生类.cpp" />
     <ClCompile Include="swap14.cpp" />
   </ItemGroup>
   <ItemGroup>
