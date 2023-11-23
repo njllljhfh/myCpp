@@ -38,7 +38,7 @@ public:
 
 };
 
-int main() {
+int main46() {
     cout << "046_类和对象-封装-案例-设计学生类" << endl;
 
     Student46 s1;

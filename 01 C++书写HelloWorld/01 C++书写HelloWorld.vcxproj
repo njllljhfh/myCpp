@@ -173,6 +173,8 @@
     <ClCompile Include="044_函数高级-函数重载注意事项.cpp" />
     <ClCompile Include="045_类和对象-封装-属性和行为作为整体.cpp" />
     <ClCompile Include="046_类和对象-封装-案例-设计学生类.cpp" />
+    <ClCompile Include="047_类和对象-封装-访问权限.cpp" />
+    <ClCompile Include="048_类和对象-封装-struct和class的区别.cpp" />
     <ClCompile Include="swap14.cpp" />
   </ItemGroup>
   <ItemGroup>

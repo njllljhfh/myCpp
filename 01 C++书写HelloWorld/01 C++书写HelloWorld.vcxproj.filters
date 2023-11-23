@@ -156,6 +156,12 @@
     <ClCompile Include="046_类和对象-封装-案例-设计学生类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="047_类和对象-封装-访问权限.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="048_类和对象-封装-struct和class的区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap14.h">
