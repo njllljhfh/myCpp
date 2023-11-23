@@ -29,7 +29,7 @@ int func41_3(int a = 20, int b = 20)
 
 
 int main41() {
-    cout << "041_函数提高-函数默认参数" << endl;
+    cout << "041_函数高级-函数默认参数" << endl;
 
     cout << func41_1(10) << endl;
     cout << func41_1(10, 30) << endl;
