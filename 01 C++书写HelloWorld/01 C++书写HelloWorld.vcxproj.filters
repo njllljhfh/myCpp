@@ -54,7 +54,7 @@
     <ClCompile Include="014_函数-函数的分文件编写.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="swap14.cpp">
+    <ClCompile Include="014_swap.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="015_指针-定义和使用.cpp">
@@ -162,9 +162,30 @@
     <ClCompile Include="048_类和对象-封装-struct和class的区别.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="049_类和对象-封装-成员属性私有化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="050_类和对象-封装-案例1-立方体类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="051_类和对象-封装-案例2-点和圆的关系.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="051_point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="051_circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="swap14.h">
+    <ClInclude Include="014_swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="051_point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="051_circle.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

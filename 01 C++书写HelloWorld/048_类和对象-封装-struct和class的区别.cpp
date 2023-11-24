@@ -18,7 +18,7 @@ struct C2
     int m_A; //默认权限是 公有 public
 };
 
-int main() {
+int main48() {
     cout << "048_类和对象-封装-struct和class的区别" << endl;
 
     C1 c1;
