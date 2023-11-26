@@ -91,7 +91,7 @@ void relationship_between_point_and_circle(Circle51& c, Point51& p)
     }
 }
 
-int main() {
+int main51() {
     cout << "051_类和对象-封装-案例2-点和圆的关系" << endl;
     cout << "----------------------------------------------------------------" << endl;
     Circle51 c;

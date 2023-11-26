@@ -181,6 +181,8 @@
     <ClCompile Include="051_类和对象-封装-案例2-点和圆的关系.cpp" />
     <ClCompile Include="051_point.cpp" />
     <ClCompile Include="014_swap.cpp" />
+    <ClCompile Include="052_类和对象-对象特性-构造函数和析构函数.cpp" />
+    <ClCompile Include="053_类和对象-对象特性-构造函数的分类及调用.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="051_circle.h" />
