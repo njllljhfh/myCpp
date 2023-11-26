@@ -85,7 +85,7 @@ void test53_1()
 	cout << "666" << endl;
 	//注意事项
 	//不要利用 拷贝构造函数 初始化 匿名对象，编译器会认为  Person53(p6);  等价于  Person53 p6;，即编译器会认为是对象声明
-	//Person53(p6); //报错，p6重定义
+	//Person53(p6); //报错，p6 重定义
 	cout << "++++++++++++++++++++++++++++++++++++++++++++" << endl;
 	cout << endl;
 
@@ -93,10 +93,12 @@ void test53_1()
 
 	//3、隐式转换法
 	cout << "3、隐式转换法：" << endl;
-	Person53 p8 = 10;  //相当于写了 Person53 p8 = Person53(10);   有参构造函数
+	Person53 p8 = 30;  //相当于写了 Person53 p8 = Person53(30);   有参构造函数
+	cout << "p8 的年龄：" << p8.age << endl;
 	cout << "*****************" << endl;
 
 	Person53 p9 = p8;  //相当于写了 Person53 p9 = Person53(p8);   拷贝构造函数
+	cout << "p9 的年龄：" << p9.age << endl;
 	cout << "++++++++++++++++++++++++++++++++++++++++++++" << endl;
 	cout << endl;
 }
