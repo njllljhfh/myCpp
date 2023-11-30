@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 
@@ -25,9 +24,9 @@ public:
 	}
 
 	//---------------------拷贝构造函数---------------------
-	Person53(const Person53& p) // 见 040_引用-常亮引用 的讲解
+	Person53(const Person53& p) // 见 040_引用-常量引用 的讲解
 	{
-		//将传入的实例上多有的属性，拷贝到新实例上
+		//将传入的实例上所有的属性，拷贝到新实例上
 		cout << "Person53 拷贝构造函数的调用" << endl;
 		age = p.age;
 	}
@@ -104,7 +103,7 @@ void test53_1()
 }
 
 
-int main() {
+int main53() {
 	cout << "053_类和对象-对象特性-构造函数的分类和调用" << endl;
 	test53_1();
 	cout << "----------------------------------------------------------------" << endl;

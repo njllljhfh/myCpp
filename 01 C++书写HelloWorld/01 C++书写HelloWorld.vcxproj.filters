@@ -177,6 +177,39 @@
     <ClCompile Include="051_circle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="052_类和对象-对象特性-构造函数和析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="053_类和对象-对象特性-构造函数的分类及调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="054_类和对象-对象特性-拷贝构造函数调用时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="055_类和对象-对象特性-构造函数调用规则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="056_类和对象-对象特性-深拷贝与浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="057_类和对象-对象特性-初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="058_类和对象-对象特性-类对象作为类成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="059_类和对象-对象特性-静态成员变量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="060_类和对象-对象特性-静态成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="061_类和对象-对象特性-成员变量和成员函数分开存储.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="062_类和对象-对象特性-this指针的用途.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="014_swap.h">
