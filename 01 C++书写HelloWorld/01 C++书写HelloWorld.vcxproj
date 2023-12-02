@@ -192,6 +192,11 @@
     <ClCompile Include="060_类和对象-对象特性-静态成员函数.cpp" />
     <ClCompile Include="061_类和对象-对象特性-成员变量和成员函数分开存储.cpp" />
     <ClCompile Include="062_类和对象-对象特性-this指针的用途.cpp" />
+    <ClCompile Include="063_类和对象-对象特性-空指针访问成员函数.cpp" />
+    <ClCompile Include="064_类和对象-对象特性-const修饰成员函数.cpp" />
+    <ClCompile Include="065_类和对象-友元-全局函数做友元.cpp" />
+    <ClCompile Include="066_类和对象-友元-类做友元.cpp" />
+    <ClCompile Include="067_类和对象-友元-成员函数做友元.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="051_circle.h" />

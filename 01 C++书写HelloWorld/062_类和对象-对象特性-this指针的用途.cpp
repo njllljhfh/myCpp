@@ -18,6 +18,7 @@ public:
         this->age = age;
     }
 
+    //链式编程思想（这里返回的是对象的引用）
     Person62& PersonAddAge(Person62& p)
     {
         this->age += p.age;
@@ -61,7 +62,7 @@ void test62_2()
 }
 
 
-int main()
+int main62()
 {
     cout << "062_类和对象-对象特性-this指针的用途" << endl;
     test62_1();
