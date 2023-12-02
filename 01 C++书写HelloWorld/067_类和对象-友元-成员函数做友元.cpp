@@ -62,7 +62,7 @@ void test67_1()
     gg.visit2();
 }
 
-int main()
+int main67()
 {
     cout << "067_类和对象-友元-成员函数做友元" << endl;
     test67_1();

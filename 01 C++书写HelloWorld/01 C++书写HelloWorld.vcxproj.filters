@@ -225,6 +225,15 @@
     <ClCompile Include="067_类和对象-友元-成员函数做友元.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="068_类和对象-运算符重载-加号运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="069_类和对象-运算符重载-左移运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="070_类和对象-运算符重载-递增运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="014_swap.h">
