@@ -246,6 +246,12 @@
     <ClCompile Include="074_类和对象-运算符重载-函数调用运算符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="075_类和对象-继承-基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="076_类和对象-继承-继承方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="014_swap.h">

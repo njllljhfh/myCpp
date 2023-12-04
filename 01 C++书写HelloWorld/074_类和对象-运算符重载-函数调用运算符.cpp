@@ -53,7 +53,7 @@ void test74_2()
     cout << MyAdd74()(1, 2) << endl;
 }
 
-int main()
+int main74()
 {
     cout << "074_类和对象-运算符重载-函数调用运算符" << endl;
     test74_1();

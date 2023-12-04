@@ -204,6 +204,8 @@
     <ClCompile Include="072_类和对象-运算符重载-赋值运算符.cpp" />
     <ClCompile Include="073_类和对象-运算符重载-关系运算符.cpp" />
     <ClCompile Include="074_类和对象-运算符重载-函数调用运算符.cpp" />
+    <ClCompile Include="075_类和对象-继承-基本语法.cpp" />
+    <ClCompile Include="076_类和对象-继承-继承方式.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="051_circle.h" />
