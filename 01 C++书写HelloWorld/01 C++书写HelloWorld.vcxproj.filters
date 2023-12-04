@@ -234,6 +234,18 @@
     <ClCompile Include="070_类和对象-运算符重载-递增运算符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="071_类和对象-运算符重载-递减运算符-练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="072_类和对象-运算符重载-赋值运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="073_类和对象-运算符重载-关系运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="074_类和对象-运算符重载-函数调用运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="014_swap.h">

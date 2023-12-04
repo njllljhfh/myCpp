@@ -57,7 +57,6 @@ private:
 
 //利用全局函数重载 << 运算符
 // 这里不加 const 的话，后置递增执行后，无法直接 调用 cout << myint++;  (原因不详：可能是编译器的问题)，见《040_引用-常量引用》
-//
 ostream& operator<<(ostream& cout, const MyInteger70& myint)
 {
     cout << myint.mNum;
@@ -85,7 +84,7 @@ void test70_2()
 }
 
 
-int main()
+int main70()
 {
     cout << "070_类和对象-运算符重载-递增运算符" << endl;
     test70_1();

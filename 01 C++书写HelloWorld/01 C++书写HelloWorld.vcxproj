@@ -200,6 +200,10 @@
     <ClCompile Include="068_类和对象-运算符重载-加号运算符.cpp" />
     <ClCompile Include="069_类和对象-运算符重载-左移运算符.cpp" />
     <ClCompile Include="070_类和对象-运算符重载-递增运算符.cpp" />
+    <ClCompile Include="071_类和对象-运算符重载-递减运算符-练习.cpp" />
+    <ClCompile Include="072_类和对象-运算符重载-赋值运算符.cpp" />
+    <ClCompile Include="073_类和对象-运算符重载-关系运算符.cpp" />
+    <ClCompile Include="074_类和对象-运算符重载-函数调用运算符.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="051_circle.h" />
