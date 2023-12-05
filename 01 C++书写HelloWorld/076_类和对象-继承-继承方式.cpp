@@ -112,7 +112,7 @@ void test76_3()
 }
 
 
-int main()
+int main76()
 {
     cout << "076_类和对象-继承-继承方式" << endl;
     test76_1();

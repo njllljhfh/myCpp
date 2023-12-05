@@ -4,7 +4,7 @@ using namespace std;
 
 #define Day 7
 
-int main1() {
+int main() {
     int a = 10;
     cout << "a = " << a << endl;
     cout << "一周总共有" << Day << "天" << endl;
@@ -18,9 +18,9 @@ int main1() {
     short num1 = 10;
     //整型
     int num2 = 10;
-    //长长整型
-    long num3 = 10;
     //长整型
+    long num3 = 10;
+    //长长整型
     long long num4 = 10;
     cout << "num1 = " << num1 << endl;
     cout << "num2 = " << num2 << endl;

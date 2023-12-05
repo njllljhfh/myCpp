@@ -206,6 +206,12 @@
     <ClCompile Include="074_类和对象-运算符重载-函数调用运算符.cpp" />
     <ClCompile Include="075_类和对象-继承-基本语法.cpp" />
     <ClCompile Include="076_类和对象-继承-继承方式.cpp" />
+    <ClCompile Include="077_类和对象-继承-继承中的对象模型.cpp" />
+    <ClCompile Include="078_类和对象-继承-构造和析构顺序.cpp" />
+    <ClCompile Include="079_类和对象-继承-同名成员处理.cpp" />
+    <ClCompile Include="080_类和对象-继承-同名静态成员处理.cpp" />
+    <ClCompile Include="081_类和对象-继承-多继承语法.cpp" />
+    <ClCompile Include="082_类和对象-继承-菱形继承问题及解决方式.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="051_circle.h" />
