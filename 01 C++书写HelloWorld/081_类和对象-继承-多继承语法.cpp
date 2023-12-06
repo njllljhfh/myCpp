@@ -53,7 +53,7 @@ void test81_1()
     Son81 s;
     cout << "size of Son81 = " << sizeof(s) << endl;
 
-    //当父类中曲线同名成员，需要加父类作用域
+    //当父类中出现同名成员，需要加父类作用域
     //cout << "mA = " << s.mA << endl;
     cout << "Base81_1::mA = " << s.Base81_1::mA << endl;
     cout << "Base81_2::mA = " << s.Base81_2::mA << endl;

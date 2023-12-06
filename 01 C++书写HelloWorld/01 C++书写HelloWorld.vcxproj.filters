@@ -270,6 +270,24 @@
     <ClCompile Include="082_类和对象-继承-菱形继承问题及解决方式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="083_类和对象-多态-多态的基本用法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="084_类和对象-多态-多态的原理剖析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="085_类和对象-多态-案例1-计算器类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="086_类和对象-多态-纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="087_类和对象-多态-案例2-制作饮品.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="088_类和对象-多态-虚析构和纯虚析构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="014_swap.h">

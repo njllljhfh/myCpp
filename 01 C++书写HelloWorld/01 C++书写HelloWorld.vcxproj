@@ -212,6 +212,12 @@
     <ClCompile Include="080_类和对象-继承-同名静态成员处理.cpp" />
     <ClCompile Include="081_类和对象-继承-多继承语法.cpp" />
     <ClCompile Include="082_类和对象-继承-菱形继承问题及解决方式.cpp" />
+    <ClCompile Include="083_类和对象-多态-多态的基本用法.cpp" />
+    <ClCompile Include="084_类和对象-多态-多态的原理剖析.cpp" />
+    <ClCompile Include="085_类和对象-多态-案例1-计算器类.cpp" />
+    <ClCompile Include="086_类和对象-多态-纯虚函数和抽象类.cpp" />
+    <ClCompile Include="087_类和对象-多态-案例2-制作饮品.cpp" />
+    <ClCompile Include="088_类和对象-多态-虚析构和纯虚析构.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="051_circle.h" />
