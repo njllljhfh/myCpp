@@ -218,6 +218,8 @@
     <ClCompile Include="086_类和对象-多态-纯虚函数和抽象类.cpp" />
     <ClCompile Include="087_类和对象-多态-案例2-制作饮品.cpp" />
     <ClCompile Include="088_类和对象-多态-虚析构和纯虚析构.cpp" />
+    <ClCompile Include="089_类和对象-多态-案例3-电脑组装.cpp" />
+    <ClCompile Include="090_文件操作-文本文件-写文件.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="051_circle.h" />
