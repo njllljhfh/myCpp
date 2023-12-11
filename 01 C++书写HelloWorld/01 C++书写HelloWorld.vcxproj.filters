@@ -294,6 +294,24 @@
     <ClCompile Include="090_文件操作-文本文件-写文件.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="091_文件操作-文本文件-读文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="092_文件操作-二进制文件-写文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="093_文件操作-二进制文件-读文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="测试_try-catch-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="测试_try-catch-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="测试_类型转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="014_swap.h">
