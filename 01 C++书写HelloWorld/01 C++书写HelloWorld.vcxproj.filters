@@ -309,7 +309,10 @@
     <ClCompile Include="测试_try-catch-2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="测试_类型转换.cpp">
+    <ClCompile Include="094_模板-函数模板基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="测试_typeConversion.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -3,7 +3,7 @@
 using namespace std;
 
 
-int main()
+int main_typeConversion()
 {
     const char* s = "Help" + 3;
     cout << s << endl;
