@@ -224,6 +224,11 @@
     <ClCompile Include="092_文件操作-二进制文件-写文件.cpp" />
     <ClCompile Include="093_文件操作-二进制文件-读文件.cpp" />
     <ClCompile Include="094_模板-函数模板基本语法.cpp" />
+    <ClCompile Include="095_模板-函数模板注意事项.cpp" />
+    <ClCompile Include="096_模板-函数模板案例-数组排序.cpp" />
+    <ClCompile Include="097_模板-普通函数与函数模板区别.cpp" />
+    <ClCompile Include="098_模板-普通函数与函数模板的调用规则.cpp" />
+    <ClCompile Include="099_模板-模板的局限性.cpp" />
     <ClCompile Include="测试_try-catch-1.cpp" />
     <ClCompile Include="测试_try-catch-2.cpp" />
     <ClCompile Include="测试_typeConversion.cpp" />
