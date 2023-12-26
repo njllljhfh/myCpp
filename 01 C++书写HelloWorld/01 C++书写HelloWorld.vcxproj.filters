@@ -345,6 +345,9 @@
     <ClCompile Include="104_模板-类模板与继承.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="105_模板-类模板成员函数类外实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="014_swap.h">
